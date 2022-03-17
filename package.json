@@ -1,0 +1,17 @@
+{
+  "name": "calendarreact",
+  "version": "1.0.0",
+  "description": "calendar by react",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kass86",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "snowpack": "^3.8.8"
+  }
+}
